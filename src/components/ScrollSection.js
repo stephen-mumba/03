@@ -12,7 +12,7 @@ function ScrollSection() {
     {
       title: "Card One",
       description: "Fresh design with a clean photo layout.",
-      image: "/WhatsApp Image 2026-06-12 at 10.06.59 (1).jpeg",
+      image: "/WhatsApp Image 2026-06-12 at 11.33.22.jpeg",
     },
     {
       title: "Card Two",
