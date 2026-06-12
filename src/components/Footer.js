@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer className="footer">
-      <span>Footer</span>
+      <span>Call +254797417841, Welcome</span>
     </footer>
   );
 }

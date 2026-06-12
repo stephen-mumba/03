@@ -3,8 +3,8 @@ import React from "react";
 function Hero() {
   return (
     <header className="hero__header">
-      <h1>Stephen Ziro Mumba</h1>
-      <h2>Frontend Developer</h2>
+      <h1>Joel Mazerah Matano</h1>
+      <h2>Designs</h2>
     </header>
   );
 }
